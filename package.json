@@ -5,6 +5,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nehemie-Jacques/Gestion-des-API.git"
