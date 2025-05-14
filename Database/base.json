@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "f1ed9a84-4d06-4f86-a100-f8d78c992594",
+    "name": "rokie",
+    "age": "5",
+    "breed": "Golden Retriever"
+  },
+  {
+    "id": "c29ae5f8-1f37-4e17-a5cd-5c6994fd7e9d",
+    "name": "lucky",
+    "age": "7",
+    "breed": "Dalmasien"
+  },
+  {
+    "id": "74055447-280c-457b-b1aa-cc563dc6a0e3",
+    "name": "Paff",
+    "age": "3",
+    "breed": "chiwawa"
+  },
+  {
+    "id": "3b7579fe-4202-4884-8bd8-19f33fe0a3e6",
+    "name": "kiki",
+    "age": "4",
+    "breed": "rockvilleur"
+  }
+]
